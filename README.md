@@ -1,6 +1,6 @@
-# imc_calculator
+# IMC Calculator
 
-A new Flutter project.
+Second project on the Flutter Dev Training, realized by Inmetrics.
 
 ## Getting Started
 
